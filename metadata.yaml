@@ -1,0 +1,34 @@
+_repo: Pierre-et-Luce_64274
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Belot, Gabriel
+    birthdate: 1882
+    deathdate: 1962
+    gutenberg_agent_id: '52849'
+    url: http://www.gutenberg.org/2009/agents/52849
+    wikipedia: https://fr.wikipedia.org/wiki/Gabriel_Belot
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2021-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64274'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pierre et Luce
+url: http://www.gutenberg.org/ebooks/64274
