@@ -1,5 +1,5 @@
 _repo: Pierre-et-Luce_64274
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Belot, Gabriel
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '52849'
     url: http://www.gutenberg.org/2009/agents/52849
     wikipedia: https://fr.wikipedia.org/wiki/Gabriel_Belot
+covers:
+- cover_type: archival
+  image_path: 64274-h/images/pierre_cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Romain_Rolland
     - https://fr.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64274#Pierre-et-Luce
 gutenberg_issued: '2021-01-16'
 gutenberg_type: Text
 identifiers:
